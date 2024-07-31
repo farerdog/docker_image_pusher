@@ -8,4 +8,5 @@
 # farerboy/mysql:5.7
 # minio/minio
 # jonnyan404/verysync
-zhaojun1998/zfile
+# zhaojun1998/zfile
+centos:centos7.9.2009
