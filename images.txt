@@ -9,4 +9,5 @@
 # minio/minio
 # jonnyan404/verysync
 # zhaojun1998/zfile
-centos:centos7.9.2009
+# centos:centos7.9.2009
+jpomdocker/jpom
