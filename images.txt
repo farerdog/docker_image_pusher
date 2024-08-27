@@ -11,4 +11,5 @@
 # zhaojun1998/zfile
 # centos:centos7.9.2009
 # jpomdocker/jpom
-prom/prometheus
+# prom/prometheus
+grafana/grafana
