@@ -10,4 +10,5 @@
 # jonnyan404/verysync
 # zhaojun1998/zfile
 # centos:centos7.9.2009
-jpomdocker/jpom
+# jpomdocker/jpom
+prom/prometheus
