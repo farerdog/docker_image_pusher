@@ -12,4 +12,5 @@
 # centos:centos7.9.2009
 # jpomdocker/jpom
 # prom/prometheus
-grafana/grafana
+# grafana/grafana
+prom/mysqld-exporter
