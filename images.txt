@@ -13,4 +13,5 @@
 # jpomdocker/jpom
 # prom/prometheus
 # grafana/grafana
-prom/mysqld-exporter
+# prom/mysqld-exporter
+feiyu563/prometheus-alert:v4.9.1
